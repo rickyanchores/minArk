@@ -1,2 +1,0 @@
-(this.webpackJsonpminark=this.webpackJsonpminark||[]).push([[0],{10:function(e,n,t){"use strict";t.r(n);var c=t(1),i=t.n(c),r=t(3),s=t.n(r),a=(t(8),t(0)),d=function(){return Object(a.jsxs)("div",{className:"App",children:[Object(a.jsx)("h3",{children:"MinARK"}),Object(a.jsx)("p",{children:"minimalist and architecture"})]})};s.a.render(Object(a.jsx)(i.a.StrictMode,{children:Object(a.jsx)(d,{})}),document.getElementById("root"))},8:function(e,n,t){}},[[10,1,2]]]);
-//# sourceMappingURL=main.f32be203.chunk.js.map
